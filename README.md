@@ -1,0 +1,2 @@
+# SolucionesInformatica
+ejemplo certificación microsoft
